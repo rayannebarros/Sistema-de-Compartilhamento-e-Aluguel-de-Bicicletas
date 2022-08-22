@@ -17,20 +17,29 @@ O objetivo é prever a contagem total de bicicletas alugadas durante cada dia co
 
 Dados:
 datetime - data por hora + timestamp
+
 season - 1 = primavera, 2 = verão, 3 = outono, 4 = inverno
+
 holiday - se o dia é considerado feriado
+
 workingday - se o dia não é fim de semana nem feriado
+
 wheater:
 1: céu limpo, poucas nuvens ou parcialmente nublado
 2: Névoa + Nublado, Névoa + Nuvens quebradas, Névoa + Algumas nuvens, Névoa
 3: neve fraca, chuva fraca + trovoada + nuvens dispersas, chuva fraca + nuvens dispersas
 4: Chuva forte + Paletes de gelo + Trovoada + Névoa, Neve + Nevoeiro
+
 temp - temperatura em Celsius
+
 atemp - sensação térmica em Celsius
+
 humidity - umidade relativa do ar
+
 windspeed - velocidade do vento
 
 casual - número de aluguéis de usuários não registrados no sistema
+
 registered - número de aluguéis de usuários registrados 
 
 no sistema
