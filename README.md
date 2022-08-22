@@ -29,7 +29,7 @@ temp - temperatura em Celsius
 atemp - sensação térmica em Celsius
 humidity - umidade relativa do ar
 windspeed - velocidade do vento
----------------
+
 casual - número de aluguéis de usuários não registrados no sistema
 registered - número de aluguéis de usuários registrados 
 
