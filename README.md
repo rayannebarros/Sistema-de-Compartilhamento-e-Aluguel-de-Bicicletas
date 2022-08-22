@@ -26,8 +26,11 @@ workingday - se o dia não é fim de semana nem feriado
 
 wheater:
 > 1: céu limpo, poucas nuvens ou parcialmente nublado
+
 > 2: Névoa + Nublado, Névoa + Nuvens quebradas, Névoa + Algumas nuvens, Névoa
+
 > 3: neve fraca, chuva fraca + trovoada + nuvens dispersas, chuva fraca + nuvens dispersas
+
 > 4: Chuva forte + Paletes de gelo + Trovoada + Névoa, Neve + Nevoeiro
 
 temp - temperatura em Celsius
